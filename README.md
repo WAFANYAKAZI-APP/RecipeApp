@@ -1,3 +1,3 @@
-# CalculatorApp
-Performing mathematical operations that includes the use of hooks and functional based 
-components.
+# MovieList App
+Performing requests using  includes such as the use of useEffect hooks and functional based 
+components. and libraries such axios
